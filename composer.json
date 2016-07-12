@@ -1,0 +1,15 @@
+{
+    "name": "pankaj/crawler",
+    "authors": [
+        {
+            "name": "Pankaj Adhyapak",
+            "email": "pankajsa38@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Crawler\\": "Crawler/"
+        }
+    }
+}
